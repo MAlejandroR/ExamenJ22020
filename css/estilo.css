@@ -1,0 +1,38 @@
+fieldset{
+    margin-left: 200px;
+    margin-top: 150px;
+    width: 50%;
+    background: #f0ead8;
+}
+fieldset.inner{
+    font-size:1em ;
+    margin-left: 0px;
+    margin-top: 0px;
+    background: #f0c040;
+    float: right;
+}
+fieldset.inner>input {
+    font-size:1em ;
+
+}
+fieldset.inner>label {
+    font-size:1em ;
+
+}
+
+legend{
+    font-size: 2em;
+    font-weight: bold;
+    color:blue;
+}
+input{
+    font-size: 1.3em;
+    font-weight: bold;
+    color:#9B410E;
+}
+label{
+    font-size: 1.4em;
+    font-weight: bold;
+    color:#9B410E;
+}
+
